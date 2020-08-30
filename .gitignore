@@ -1,5 +1,10 @@
 # main Authentuication FIle
 lib/main.dart
+google-services.json
+
+# Local machine info
+local.properties
+
 # Miscellaneous
 *.class
 *.log
@@ -10,6 +15,7 @@ lib/main.dart
 .buildlog/
 .history
 .svn/
+/.gradle/
 
 # IntelliJ related
 *.iml
